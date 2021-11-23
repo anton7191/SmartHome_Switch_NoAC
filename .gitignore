@@ -1,0 +1,26 @@
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.*.PrjPcb.Zip
+*.*.PcbDoc.Zip
+*.*.SchDoc.Zip
+*.*.OutJob.Zip
+*.CmpLib
+*.SchLib.Zip
+*.PcbLib.Zip
+*.*.SchLib (1).Zip
+*.APR_LIB
+*.apr
+*.DRR
+*.EXTREP
+*.LDP
+*.REP
+*.RUL
+*.ldb
+*.CMP
+*.CMPPreview
+*.ini
+*.LOG
+*.drc
+*.html
+*.TXTPreview
+/__Previews
