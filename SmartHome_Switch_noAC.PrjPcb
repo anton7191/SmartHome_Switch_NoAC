@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for SmartHome_Switch_noAC
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -216,6 +216,82 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for SmartHome_Switch_noAC\Design Rule Check - SmartHome_Switch.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SmartHome_Switch_noAC\Folder Structure\SmartHome_relay_P&P.csv
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\Libs\*.*
 IncludeSubFolders=1
@@ -271,7 +347,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for SmartHome_Switch_noAC
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
